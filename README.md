@@ -1,3 +1,5 @@
+Swamp Cooler
+
 # CPE301_FinalProject
 Members: Andy Chiang, Tiffany Noda
 
